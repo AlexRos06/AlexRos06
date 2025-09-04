@@ -182,7 +182,4 @@ A curated collection of academic work from my Master's programm.
 </div>  
 
 
-![Snake animation](https://github.com/AlexRos06/AlexRos06/blob/output/snake.svg)
-
-
 <br/>  
