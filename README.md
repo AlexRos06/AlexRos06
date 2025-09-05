@@ -1,66 +1,126 @@
-### <div align="center">
-## <span style="font-size: 1.8em; font-weight: 600; font-family: 'Courier New', monospace; color: #b0b0b0; text-shadow: 0 0 3px #b0b0b0;">ALEXANDER ROSUSHCHAN</span>
-</div>
+<table style="border: none; border-collapse: collapse;">
+  <tr>
+    <td width="60%" valign="top" style="border: none;">
 
-### <div align="center">
-## <span style="font-size: 1.8em; font-weight: 600; font-family: 'Courier New', monospace; color: #b0b0b0; text-shadow: 0 0 3px #b0b0b0;">DATA SCIENTIST & ANALYST</span>
-</div>
+## 🪪 𝗔𝗯𝗼𝘂𝘁 𝗺𝗲
+      
+Hey there! I'm Alexander 👋
 
-<div align="center">
-<span style="font-size: 30em; font-weight: 900; font-family: 'Courier New', monospace; color: #b0b0b0; text-shadow: 0 0 30px #b0b0b0;">ALEXANDER ROSUSHCHAN</span>
+A Data Scientist and all-around data enthusiast who loves digging into datasets and uncovering hidden patterns. Tech geek, Blade Runner aesthetics appreciator, and firm believer that good coffee and clean code can solve most problems.
 <br>
-<span style="font-size: 30em; font-weight: 900; font-family: 'Courier New', monospace; color: #b0b0b0; text-shadow: 0 0 30px #b0b0b0;">DATA SCIENTIST & ANALYST</span>
-</div>
+## 💻 𝗪𝗼𝗿𝗸 𝗲𝘅𝗽𝗲𝗿𝗶𝗲𝗻𝗰𝗲
+💠 **Data Scientist** | Ozon (E-commerce)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*2024 - today*<br>
+Developed models for selecting cities for opening new sorting centers, predicted operating costs and the number of parcels at pick-up points,
+and implemented other projects in the field of logistics.<br><br>
+💠 **Data Analyst** | Sogaz (Finance/Insurance)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*2024* (6 month)<br>
+Automated reporting on the work of insurance brokers, developed a model for classifying insurance contracts.
 
-<p float="right">
-  <img src="https://github.com/AlexRos06/AlexRos06/blob/main/Images/KT5TpRQ.gif?raw=true" width="400" height="400" style="float: right; margin-left: 20px;" />
-  
-I'm Alexander, results-driven Data Scientist with a background 
-at the intersection of IT, logistic, and economics.
+## 🎓 𝗘𝗱𝘂𝗰𝗮𝘁𝗶𝗼𝗻
+- MSc in **Data Science** at **HSE University**
+- BA in **World Economy & International Affairs**
+    </td>
+    <td width="40%" style="border: none; text-align: right;">
+      <img src="https://i.imgur.com/WJpyIgX.gif" width="400" height="600" />
+    </td>
+  </tr>
+</table>
 
-I have worked for companies such as:
-- **Ozon** (E-commerce) 
-- **Sogaz** (Finance/Insurance)
+## ⛏ 𝗠𝘆 𝗽𝗿𝗼𝗷𝗲𝗰𝘁𝘀
 
-I Completed a Master's degree in Data Analysis
-and Bachelor degree in International Affairs at 
-Higher School of Economics.
-</p>
-
-
-
-### [🎯 Road to Kaggle Grandmaster](https://github.com/AlexRos06/Road_to_Kaggle_Grandmaster) 
+### [🎯 R̲o̲a̲d̲ ̲t̲o̲ ̲K̲a̲g̲g̲l̲e̲ ̲G̲r̲a̲n̲d̲m̲a̲s̲t̲e̲r̲](https://github.com/AlexRos06/Road_to_Kaggle_Grandmaster)
 My projects from Kaggle
 <details>
-<summary><b>View Projects Table</b></summary>
+<summary><b>𝙑𝙞𝙚𝙬 𝙋𝙧𝙤𝙟𝙚𝙘𝙩𝙨 𝙏𝙖𝙗𝙡𝙚 ⬇</b></summary>
 <br>
 
 | Project Name | Description | Technologies Used |
 |--------------|-------------|------------------|
-| Titanic: Machine Learning from Disaster | Predict survival on the Titanic | Pandas, Scikit-learn, Matplotlib |
-| House Prices: Advanced Regression Techniques | Predict sales prices and practice feature engineering | XGBoost, LightGBM, Seaborn |
+| Titanic: Machine Learning from Disaster | Predict survival on the Titanic |  <img src="https://img.shields.io/badge/pandas-blue"> <img src="https://img.shields.io/badge/Scikit-learn-grey"> |
+| House Prices: Advanced Regression Techniques | Predict sales prices and practice feature engineering | <img src="https://img.shields.io/badge/pandas-blue"> <img src="https://img.shields.io/badge/XGBoost-red"> <img src="https://img.shields.io/badge/Statsmodels-purple"> |
 
 </details>
+<hr style="border: none; height: 1px; background: #333; opacity: 0.3;">
 
-### [🎓 University projects](https://github.com/AlexRos06/hse_university_projects) 
-My university projects in HSE University, Faculty of Computer Science (2024-2026)
+### [🎓 U̲n̲i̲v̲e̲r̲s̲i̲t̲y̲ ̲p̲r̲o̲j̲e̲c̲t̲s̲](https://github.com/AlexRos06/hse_university_projects) 
+My university projects at HSE University | Faculty of Computer Science (2024-2026)
 <details>
-<summary><b>View Projects Table</b></summary>
+<summary><b>𝙑𝙞𝙚𝙬 𝙋𝙧𝙤𝙟𝙚𝙘𝙩𝙨 𝙏𝙖𝙗𝙡𝙚 ⬇</b></summary>
 <br>
 
 | Project Name | Description | Technologies Used |
 |--------------|-------------|------------------|
-| Titanic: Machine Learning from Disaster | Predict survival on the Titanic | Pandas, Scikit-learn, Matplotlib |
+| Titanic: Machine Learning from Disaster | Predict survival on the Titanic |  <img src="https://img.shields.io/badge/pandas-blue"> <img src="https://img.shields.io/badge/Scikit-learn-grey"> |
 
 </details>
+<hr style="border: none; height: 1px; background: #333; opacity: 0.3;">
 
-### Future projects  
-In development...  
-  
+### [🔜 F̲u̲t̲u̲r̲e̲ ̲p̲r̲o̲j̲e̲c̲t̲s̲](https://github.com/AlexRos06?tab=repositories) 
+In development... 
+<details>
+<summary><b>𝙑𝙞𝙚𝙬 𝙋𝙧𝙤𝙟𝙚𝙘𝙩𝙨 𝙏𝙖𝙗𝙡𝙚 ⬇</b></summary>
+<br>
+
+| Project Name | Description | Technologies Used |
+|--------------|-------------|------------------|
+| ... | ... | ... |
+
+</details>
+<hr style="border: none; height: 1px; background: #333; opacity: 0.3;">
 <br/>  
 
 
-## My Skill Set  
+## 𝗠𝘆 𝗦𝗸𝗶𝗹𝗹𝘀
+
+### Machine Learning
+<div align="left">
+<table>
+  <tr>
+    <td align="center" width="25%">
+      <img src="https://github.com/AlexRos06/AlexRos06/blob/main/Images/scikit-learn.svg" alt="Scikit‑learn" height="40" />
+      <br>
+      <sub>Scikit‑learn</sub>
+    </td>
+    <td align="center" width="25%">
+      <img src="https://github.com/AlexRos06/AlexRos06/blob/main/Images/scipy-logo.svg" alt="SciPy" height="40" />
+      <br>
+      <sub>SciPy</sub>
+    </td>
+    <td align="center" width="25%">
+      <img src="https://github.com/AlexRos06/AlexRos06/blob/main/Images/statsmodels.svg" alt="Statsmodels" height="40" />
+      <br>
+      <sub>Statsmodels</sub>
+    </td>
+    <td align="center" width="25%">
+      <img src="https://github.com/AlexRos06/AlexRos06/blob/main/Images/xgboost.svg" alt="XGBoost" height="40" />
+      <br>
+      <sub>XGBoost</sub>
+    </td>
+<!--     <td align="center" width="12.5%">
+      <img src="https://github.com/AlexRos06/AlexRos06/blob/main/Images/PyTorch.svg" alt="PyTorch" height="40" />
+      <br>
+      <sub>PyTorch</sub>
+    </td>
+    <td align="center" width="12.5%">
+      <img src="https://github.com/AlexRos06/AlexRos06/blob/main/Images/lightgbm-seeklogo.svg" alt="LightGBM" height="40" />
+      <br>
+      <sub>LightGBM</sub>
+    </td>
+    <td align="center" width="12.5%">
+      <img src="https://github.com/AlexRos06/AlexRos06/blob/main/Images/TensorFlow.svg" alt="TensorFlow" height="40" />
+      <br>
+      <sub>TensorFlow</sub>
+    </td>
+    <td align="center" width="12.5%">
+      <img src="https://github.com/AlexRos06/AlexRos06/blob/main/Images/Keras.svg" alt="Keras" height="40" />
+      <br>
+      <sub>Keras</sub>
+    </td> -->
+  </tr>
+</table>
+</div>
+
 <table><tr>
     <td valign="top" width="33%">
 
@@ -79,9 +139,9 @@ In development...
       <sub>Pandas</sub>
     </td>
     <td align="center" width="33%">
-      <img src="https://raw.githubusercontent.com/AlexRos06/AlexRos06/01fccf3600c8e9c44978b5429e019a478ec313a7/Images/kafka.svg" alt="Kafka" height="40" />
+      <img src="https://raw.githubusercontent.com/AlexRos06/AlexRos06/01fccf3600c8e9c44978b5429e019a478ec313a7/Images/Numpy.svg" alt="Numpy" height="40" />
       <br>
-      <sub>Kafka</sub>
+      <sub>Numpy</sub>
     </td>
   </tr>
   <tr>
@@ -91,11 +151,11 @@ In development...
       <sub>Airflow</sub>
     </td>
     <td align="center" width="33%">
-      <img src="https://raw.githubusercontent.com/AlexRos06/AlexRos06/01fccf3600c8e9c44978b5429e019a478ec313a7/Images/Numpy.svg" alt="Numpy" height="40" />
+      <img src="https://raw.githubusercontent.com/AlexRos06/AlexRos06/01fccf3600c8e9c44978b5429e019a478ec313a7/Images/kafka.svg" alt="Kafka" height="40" />
       <br>
-      <sub>Numpy</sub>
+      <sub>Kafka</sub>
     </td>
-    <td align="center" width="33%" valign="bottom">
+    <td align="center" width="33%">
       <img src="https://raw.githubusercontent.com/AlexRos06/AlexRos06/01fccf3600c8e9c44978b5429e019a478ec313a7/Images/Spark.svg" alt="Spark" height="40" />
       <br>
       <sub>Spark</sub>
@@ -112,6 +172,11 @@ In development...
 <table>
   <tr>
     <td align="center" width="33%">
+      <img src="https://raw.githubusercontent.com/AlexRos06/AlexRos06/01fccf3600c8e9c44978b5429e019a478ec313a7/Images/SQL.svg" alt="SQL" height="40" />
+      <br>
+      <sub>SQL</sub>
+    </td>
+    <td align="center" width="33%">
       <img src="https://raw.githubusercontent.com/AlexRos06/AlexRos06/01fccf3600c8e9c44978b5429e019a478ec313a7/Images/PG.svg" alt="PostgreSQL" height="40" />
       <br>
       <sub>PostgreSQL</sub>
@@ -121,26 +186,19 @@ In development...
       <br>
       <sub>ClickHouse</sub>
     </td>
-    <td align="center" width="33%" valign="bottom">
+  </tr>
+  <tr>
+    <td align="center" width="33%">
       <img src="https://raw.githubusercontent.com/AlexRos06/AlexRos06/01fccf3600c8e9c44978b5429e019a478ec313a7/Images/Vertica.svg" alt="Vertica" height="40" />
       <br>
       <sub>Vertica</sub>
     </td>
-  </tr>
-  <tr>
     <td align="center" width="33%">
-      <img src="https://raw.githubusercontent.com/AlexRos06/AlexRos06/01fccf3600c8e9c44978b5429e019a478ec313a7/Images/SQL.svg" alt="SQL" height="40" />
-      <br>
-      <sub>SQL</sub>
-    </td>
-    <td align="center" width="33%" valign="bottom">
       <img src="https://raw.githubusercontent.com/AlexRos06/AlexRos06/01fccf3600c8e9c44978b5429e019a478ec313a7/Images/AWS.svg" alt="AWS_s3" height="40" />
       <br>
-      <sub>AWS_s3</sub>
+      <sub>S3</sub>
     </td>
   </tr>
-  </tr>
-  
 </table>
 </div>
 
@@ -169,19 +227,19 @@ In development...
   </tr>
   <tr>
     <td align="center" width="33%">
-      <img src="https://raw.githubusercontent.com/AlexRos06/AlexRos06/01fccf3600c8e9c44978b5429e019a478ec313a7/Images/Git.svg" alt="Git" height="40" />
+      <img src="https://github.com/AlexRos06/AlexRos06/blob/main/Images/Datalens.webp" alt="DataLens" height="40" />
       <br>
-      <sub>Git</sub>
+      <sub>DataLens</sub>
     </td>
     <td align="center" width="33%">
       <img src="https://raw.githubusercontent.com/AlexRos06/AlexRos06/01fccf3600c8e9c44978b5429e019a478ec313a7/Images/Excel.svg" alt="Excel" height="40" />
       <br>
       <sub>Excel</sub>
     </td>
-    <td align="center" width="33%" valign="bottom">
-      <img src="https://github.com/AlexRos06/AlexRos06/blob/main/Images/Datalens.webp" alt="DataLens" height="40" />
+    <td align="center" width="33%">
+      <img src="https://raw.githubusercontent.com/AlexRos06/AlexRos06/01fccf3600c8e9c44978b5429e019a478ec313a7/Images/Git.svg" alt="Git" height="40" />
       <br>
-      <sub>DataLens</sub>
+      <sub>Git</sub>
     </td>
   </tr>
 </table>
@@ -191,7 +249,7 @@ In development...
 </tr></table>
 
 
-## Connect with me  
+## 𝗖𝗼𝗻𝗻𝗲𝗰𝘁 𝘄𝗶𝘁𝗵 𝗺𝗲
 <div align="center">
 <a href="https://github.com/AlexRos06" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
@@ -205,7 +263,7 @@ In development...
 <a href="https://t.me/AllexRos" target="_blank">
 <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="telegram logo"  />
 </a>
-</div>  
+</div> 
 
 
 <br/>  
