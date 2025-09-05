@@ -1,39 +1,62 @@
+### <div align="center">
+## <span style="font-size: 1.8em; font-weight: 600; font-family: 'Courier New', monospace; color: #b0b0b0; text-shadow: 0 0 3px #b0b0b0;">ALEXANDER ROSUSHCHAN</span>
+</div>
+
+### <div align="center">
+## <span style="font-size: 1.8em; font-weight: 600; font-family: 'Courier New', monospace; color: #b0b0b0; text-shadow: 0 0 3px #b0b0b0;">DATA SCIENTIST & ANALYST</span>
+</div>
+
 <div align="center">
-<img src="https://i.imgur.com/mESONw2.gif" align="center" height="400" width="800" />
-</div>  
+<span style="font-size: 30em; font-weight: 900; font-family: 'Courier New', monospace; color: #b0b0b0; text-shadow: 0 0 30px #b0b0b0;">ALEXANDER ROSUSHCHAN</span>
+<br>
+<span style="font-size: 30em; font-weight: 900; font-family: 'Courier New', monospace; color: #b0b0b0; text-shadow: 0 0 30px #b0b0b0;">DATA SCIENTIST & ANALYST</span>
+</div>
+
+<p float="right">
+  <img src="https://github.com/AlexRos06/AlexRos06/blob/main/Images/KT5TpRQ.gif?raw=true" width="400" height="400" style="float: right; margin-left: 20px;" />
   
-
-### <div align="center">Alexander Rosushchan
-## <span style="font-size: 1.5em; font-weight: bold;">Data Scientist & Analyst</span>
-
-I`m Alexander, results-driven Data Scientist with a background 
+I'm Alexander, results-driven Data Scientist with a background 
 at the intersection of IT, logistic, and economics.
 
-I have worked for companies such as
-Ozon (E-commerce) 
-Sogaz (Finance/Insurance).
+I have worked for companies such as:
+- **Ozon** (E-commerce) 
+- **Sogaz** (Finance/Insurance)
 
 I Completed a Master's degree in Data Analysis
 and Bachelor degree in International Affairs at 
-Hgiher School of Economics. 
-</div>  
-  
+Higher School of Economics.
+</p>
 
 
 
-### Kaggle 
-- 🔭 Road to [Kaggle](https://www.kaggle.com/alexanderrrros) Grandmaster  
+### [🎯 Road to Kaggle Grandmaster](https://github.com/AlexRos06/Road_to_Kaggle_Grandmaster) 
+My projects from Kaggle
+<details>
+<summary><b>View Projects Table</b></summary>
+<br>
 
-I am a fan of Kaggle and I try to actively solve cases on this platform. 
+| Project Name | Description | Technologies Used |
+|--------------|-------------|------------------|
+| Titanic: Machine Learning from Disaster | Predict survival on the Titanic | Pandas, Scikit-learn, Matplotlib |
+| House Prices: Advanced Regression Techniques | Predict sales prices and practice feature engineering | XGBoost, LightGBM, Seaborn |
 
-### University projects  
-- 🎓 University Projects | HSE Faculty of Computer Science (2024-2026)
-A curated collection of academic work from my Master's programm.
+</details>
+
+### [🎓 University projects](https://github.com/AlexRos06/hse_university_projects) 
+My university projects in HSE University, Faculty of Computer Science (2024-2026)
+<details>
+<summary><b>View Projects Table</b></summary>
+<br>
+
+| Project Name | Description | Technologies Used |
+|--------------|-------------|------------------|
+| Titanic: Machine Learning from Disaster | Predict survival on the Titanic | Pandas, Scikit-learn, Matplotlib |
+
+</details>
 
 ### Future projects  
-- In development...  
+In development...  
   
-
 <br/>  
 
 
@@ -46,34 +69,34 @@ A curated collection of academic work from my Master's programm.
 <table>
   <tr>
     <td align="center" width="33%">
-      <img src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="40" />
+      <img src="https://raw.githubusercontent.com/AlexRos06/AlexRos06/01fccf3600c8e9c44978b5429e019a478ec313a7/Images/Python.svg" alt="Python" height="40" />
       <br>
       <sub>Python</sub>
     </td>
     <td align="center" width="33%">
-      <img src="https://icon.icepanel.io/Technology/png-shadow-512/Pandas.png" alt="Pandas" height="40" />
+      <img src="https://github.com/AlexRos06/AlexRos06/blob/main/Images/pandas.png" alt="Pandas" height="40" />
       <br>
       <sub>Pandas</sub>
     </td>
     <td align="center" width="33%">
-      <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="Kafka" height="40" />
+      <img src="https://raw.githubusercontent.com/AlexRos06/AlexRos06/01fccf3600c8e9c44978b5429e019a478ec313a7/Images/kafka.svg" alt="Kafka" height="40" />
       <br>
       <sub>Kafka</sub>
     </td>
   </tr>
   <tr>
     <td align="center" width="33%">
-      <img src="https://icon.icepanel.io/Technology/svg/Apache-Airflow.svg" alt="Airflow" height="40" />
+      <img src="https://raw.githubusercontent.com/AlexRos06/AlexRos06/01fccf3600c8e9c44978b5429e019a478ec313a7/Images/AF.svg" alt="Airflow" height="40" />
       <br>
       <sub>Airflow</sub>
     </td>
     <td align="center" width="33%">
-      <img src="https://cdn.worldvectorlogo.com/logos/numpy-1.svg" alt="Numpy" height="40" />
+      <img src="https://raw.githubusercontent.com/AlexRos06/AlexRos06/01fccf3600c8e9c44978b5429e019a478ec313a7/Images/Numpy.svg" alt="Numpy" height="40" />
       <br>
       <sub>Numpy</sub>
     </td>
-    <td align="center" width="33%">
-      <img src="https://cdn.worldvectorlogo.com/logos/apache-spark-5.svg" alt="Spark" height="40" />
+    <td align="center" width="33%" valign="bottom">
+      <img src="https://raw.githubusercontent.com/AlexRos06/AlexRos06/01fccf3600c8e9c44978b5429e019a478ec313a7/Images/Spark.svg" alt="Spark" height="40" />
       <br>
       <sub>Spark</sub>
     </td>
@@ -89,29 +112,29 @@ A curated collection of academic work from my Master's programm.
 <table>
   <tr>
     <td align="center" width="33%">
-      <img src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="40" />
+      <img src="https://raw.githubusercontent.com/AlexRos06/AlexRos06/01fccf3600c8e9c44978b5429e019a478ec313a7/Images/PG.svg" alt="PostgreSQL" height="40" />
       <br>
       <sub>PostgreSQL</sub>
     </td>
     <td align="center" width="33%">
-      <img src="https://cdn.worldvectorlogo.com/logos/clickhouse-yellow-badge.svg" alt="ClickHouse" height="40" />
+      <img src="https://raw.githubusercontent.com/AlexRos06/AlexRos06/01fccf3600c8e9c44978b5429e019a478ec313a7/Images/CH.svg" alt="ClickHouse" height="40" />
       <br>
       <sub>ClickHouse</sub>
     </td>
     <td align="center" width="33%" valign="bottom">
-      <img src="https://logotyp.us/file/vertica.svg" alt="Vertica" height="40" />
+      <img src="https://raw.githubusercontent.com/AlexRos06/AlexRos06/01fccf3600c8e9c44978b5429e019a478ec313a7/Images/Vertica.svg" alt="Vertica" height="40" />
       <br>
       <sub>Vertica</sub>
     </td>
   </tr>
   <tr>
     <td align="center" width="33%">
-      <img src="https://icon.icepanel.io/Technology/svg/Azure-SQL-Database.svg" alt="SQL" height="40" />
+      <img src="https://raw.githubusercontent.com/AlexRos06/AlexRos06/01fccf3600c8e9c44978b5429e019a478ec313a7/Images/SQL.svg" alt="SQL" height="40" />
       <br>
       <sub>SQL</sub>
     </td>
-    <td align="center" width="33%">
-      <img src="https://cdn.worldvectorlogo.com/logos/aws-2.svg" alt="AWS_s3" height="40" />
+    <td align="center" width="33%" valign="bottom">
+      <img src="https://raw.githubusercontent.com/AlexRos06/AlexRos06/01fccf3600c8e9c44978b5429e019a478ec313a7/Images/AWS.svg" alt="AWS_s3" height="40" />
       <br>
       <sub>AWS_s3</sub>
     </td>
@@ -129,34 +152,34 @@ A curated collection of academic work from my Master's programm.
 <table>
   <tr>
     <td align="center" width="33%">
-      <img src="https://cdn.prod.website-files.com/625447c67b621ab49bb7e3e5/65d59a1202406b23ac7621b9_superset-logo.svg" alt="Superset" height="40" />
+      <img src="https://raw.githubusercontent.com/AlexRos06/AlexRos06/01fccf3600c8e9c44978b5429e019a478ec313a7/Images/SS.svg" alt="Superset" height="40" />
       <br>
       <sub>Superset</sub>
     </td>
     <td align="center" width="33%">
-      <img src="https://cdn.worldvectorlogo.com/logos/power-bi.svg" alt="Power BI" height="40" />
+      <img src="https://raw.githubusercontent.com/AlexRos06/AlexRos06/01fccf3600c8e9c44978b5429e019a478ec313a7/Images/PBI.svg" alt="Power BI" height="40" />
       <br>
       <sub>Power_BI</sub>
     </td>
     <td align="center" width="33%">
-      <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="Grafana" height="40" />
+      <img src="https://raw.githubusercontent.com/AlexRos06/AlexRos06/01fccf3600c8e9c44978b5429e019a478ec313a7/Images/Grafana.svg" alt="Grafana" height="40" />
       <br>
       <sub>Grafana</sub>
     </td>
   </tr>
   <tr>
     <td align="center" width="33%">
-      <img src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="40" />
+      <img src="https://raw.githubusercontent.com/AlexRos06/AlexRos06/01fccf3600c8e9c44978b5429e019a478ec313a7/Images/Git.svg" alt="Git" height="40" />
       <br>
       <sub>Git</sub>
     </td>
     <td align="center" width="33%">
-      <img src="https://cdn.worldvectorlogo.com/logos/excel-4.svg" alt="Excel" height="40" />
+      <img src="https://raw.githubusercontent.com/AlexRos06/AlexRos06/01fccf3600c8e9c44978b5429e019a478ec313a7/Images/Excel.svg" alt="Excel" height="40" />
       <br>
       <sub>Excel</sub>
     </td>
-    <td align="center" width="33%">
-      <img src="https://camo.githubusercontent.com/8ddd7494a3ede9c280431b4d3ab2df479446f829d23ae192d3efa63400c0d85f/68747470733a2f2f617661746172732e6d64732e79616e6465782e6e65742f693f69643d35363436613838626337356635333037323665663964313362313935336138655f6c2d31303431343538322d696d616765732d7468756d6273266e3d3133" alt="DataLens" height="40" />
+    <td align="center" width="33%" valign="bottom">
+      <img src="https://github.com/AlexRos06/AlexRos06/blob/main/Images/Datalens.webp" alt="DataLens" height="40" />
       <br>
       <sub>DataLens</sub>
     </td>
