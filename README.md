@@ -1,33 +1,50 @@
+## 🔍 Navigation
+- [🪪 About me](#-about-me)
+- [💻 Work Experience](#-work-experience)
+- [🎓 Education](#-education)
+- [📊 Projects](#-projects)
+- [🤖 Skills](#-skills)
+- [📩 Contacts](#-contacts)
+
+<hr style="border: none; height: 2px; background: linear-gradient(90deg, transparent, #333, transparent); margin: 30px 0;">
+
 <table style="border: none; border-collapse: collapse;">
   <tr>
-    <td width="60%" valign="top" style="border: none;">
+    <td width="80%" valign="top" style="border: none;">
 
-## 🪪 𝗔𝗯𝗼𝘂𝘁 𝗺𝗲
+<a id="-about-me"></a>
+## 🪪 𝗔𝗯𝗼𝘂𝘁 𝗺𝗲 [🔝](#-navigation)
       
 Hey there! I'm Alexander 👋
 
 A Data Scientist and all-around data enthusiast who loves digging into datasets and uncovering hidden patterns. Tech geek, Blade Runner aesthetics appreciator, and firm believer that good coffee and clean code can solve most problems.
 <br>
-## 💻 𝗪𝗼𝗿𝗸 𝗲𝘅𝗽𝗲𝗿𝗶𝗲𝗻𝗰𝗲
-💠 **Data Scientist** | Ozon (E-commerce)  
+
+<a id="-work-experience"></a>
+## 💻 𝗪𝗼𝗿𝗸 𝗲𝘅𝗽𝗲𝗿𝗶𝗲𝗻𝗰𝗲 [🔝](#-navigation)
+
+💠 **Data Scientist** | **Ozon** (E-commerce)  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*2024 - today*<br>
 Developed models for selecting cities for opening new sorting centers, predicted operating costs and the number of parcels at pick-up points,
 and implemented other projects in the field of logistics.<br><br>
-💠 **Data Analyst** | Sogaz (Finance/Insurance)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*2024* (6 month)<br>
+💠 **Data Analyst** | **Sogaz** (Finance/Insurance)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*2024* (6 months)<br>
 Automated reporting on the work of insurance brokers, developed a model for classifying insurance contracts.
 
-## 🎓 𝗘𝗱𝘂𝗰𝗮𝘁𝗶𝗼𝗻
+<a id="-education"></a>
+## 🎓 𝗘𝗱𝘂𝗰𝗮𝘁𝗶𝗼𝗻 [🔝](#-navigation)
 - MSc in **Data Science** at **HSE University**
 - BA in **World Economy & International Affairs**
     </td>
-    <td width="40%" style="border: none; text-align: right;">
-      <img src="https://i.imgur.com/WJpyIgX.gif" width="400" height="600" />
+    <td width="20%" style="border: none; text-align: right;">
+      <img src="https://i.imgur.com/WJpyIgX.gif" width="380" height="550" />
     </td>
   </tr>
 </table>
+<br>
 
-## ⛏ 𝗠𝘆 𝗽𝗿𝗼𝗷𝗲𝗰𝘁𝘀
+<a id="-projects"></a>
+## 📊 𝗠𝘆 𝗽𝗿𝗼𝗷𝗲𝗰𝘁𝘀 [🔝](#-navigation)
 
 ### [🎯 R̲o̲a̲d̲ ̲t̲o̲ ̲K̲a̲g̲g̲l̲e̲ ̲G̲r̲a̲n̲d̲m̲a̲s̲t̲e̲r̲](https://github.com/AlexRos06/Road_to_Kaggle_Grandmaster)
 My projects from Kaggle
@@ -70,8 +87,8 @@ In development...
 <hr style="border: none; height: 1px; background: #333; opacity: 0.3;">
 <br/>  
 
-
-## 𝗠𝘆 𝗦𝗸𝗶𝗹𝗹𝘀
+<a id="-skills"></a>
+## 🤖 𝗠𝘆 𝗦𝗸𝗶𝗹𝗹𝘀 [🔝](#-navigation)
 
 ### Machine Learning
 <div align="left">
@@ -248,8 +265,9 @@ In development...
 </td>
 </tr></table>
 
+<a id="-contacts"></a>
+## 📩 𝗖𝗼𝗻𝗻𝗲𝗰𝘁 𝘄𝗶𝘁𝗵 𝗺𝗲 [🔝](#-navigation)
 
-## 𝗖𝗼𝗻𝗻𝗲𝗰𝘁 𝘄𝗶𝘁𝗵 𝗺𝗲
 <div align="center">
 <a href="https://github.com/AlexRos06" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
@@ -264,6 +282,4 @@ In development...
 <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="telegram logo"  />
 </a>
 </div> 
-
-
-<br/>  
+<br/> 
